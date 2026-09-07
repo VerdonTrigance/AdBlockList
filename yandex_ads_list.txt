@@ -1,0 +1,10 @@
+! Title: Yandex Ads list
+! Description: Russian Yandex Ads, metrics and stats
+! Version: 1.0
+! Homepage: https://github.com/VerdonTrigance/
+! Last modified: 2026-09-07
+0.0.0.0 matchid.adfox.yandex.ru
+0.0.0.0 matchid-production.adfox.yandex.ru
+0.0.0.0 mc.yandex.ru
+0.0.0.0 yastatic.net
+0.0.0.0 yastatic-net.ru
