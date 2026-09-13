@@ -26,3 +26,6 @@
 0.0.0.0 cws.conviva.com
 0.0.0.0 api.axiom.co
 0.0.0.0 api.ipify.org
+0.0.0.0 alphonso.tv
+0.0.0.0 sentry.io
+0.0.0.0 app-analytics-services.com
